@@ -3,19 +3,19 @@ play snake game with your audio
 
 We have done this game with a group of two members
 The group members are :
-18pa1a05b3
-18pa1a1229
+Bhargav Kiran
+G.Madhu Babu
 
 Code for snakegame : http://zetcode.com/javascript/snake/
 
-Heroku link : https://snakegameml1.herokuapp.com/index.html
+Heroku link : https://snake-game-teachable.herokuapp.com/index.html
 
 # How to play game ?
 
-To move right side ? Place your left hand horizontally towards rightside 
+To move right side ? Show One Finger
 
-To move left side ? Place your right hand horizontally towards leftside 
+To move left side ? Show Two Fingers
 
-To move up ? Place your hand upwards
+To move up ? Show Three fingers
 
-To move down ? Place your hand downwards
+To move down ? Show Four Fingers
